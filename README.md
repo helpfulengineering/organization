@@ -1,11 +1,11 @@
 # Helpful Engineers GitHub Organization
 
-### Repository structure
+## Structure
 * organization: top-level issue tracking, wiki, and organization management.
 * proposals/[resources](https://github.com/helpfulengineering/resources), project proposals in its early stages.
 * project-\*: individual project repositories. 
 
-## Creating or importing repositories
+## Kinds of repository
 
 ### Organization specific
 * Creation policy: we should embrace the Unix philosophy of «do one thing and do it well» to segment the organization needs into concisely scoped repositories.
@@ -24,8 +24,6 @@
 * Naming: repository names should match the Slack channels they are affiliated with where possible (i.e. Slack channel #project-awesome-thing would yield project-awesome-thing). 
 
 * Access privileges: each project will designate a few users, covering different time zones whenever possible, that will have triage-level access to the project repository.
-
-
 
 
 ### Teams
