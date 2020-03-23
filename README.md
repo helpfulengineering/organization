@@ -41,7 +41,7 @@
 
 *Note: the `covid-19` tag visibilizes the repositories on the global GitHub scope and, hopefully, will bring more skilled collaborators to Helpful Engineering.*
   
-## Licenses
+## Guide for licensing a new project
 
 >Hi Everyone, _Please follow this guide if you do not already have an open source license on your work. If you have one, please leave the one you have in place._
 >
