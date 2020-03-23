@@ -7,6 +7,10 @@
 
 ## Kinds of repository
 
+## Contributing
+
+If you want to add a repository, please open an issue or reach out us on the Slack [#skill-software-devops](https://helpfulengineering.slack.com/archives/CV54M16QH) channel.
+
 ### Organization specific
 * Creation policy: we should embrace the Unix philosophy of «do one thing and do it well» to segment the organization needs into concisely scoped repositories.
 
