@@ -53,15 +53,13 @@ All the new members should be just public (visible) members unless stated otherw
 
 * project-\*: individual project repositories. 
 
-
-
 ## Teams
 
 * finance
 * legal
 * operations
 * projects
-  * project-experience-tagger <= needs renaming as per the structure proposal
+  * project-experience-tagger
 * skills
   * skill-communication
   * skill-design-ux-ui
@@ -82,6 +80,7 @@ All the new members should be just public (visible) members unless stated otherw
 Recommended tags for the created projects:
 
 * organization
+* covid-19
 * project
 * hardware
 * software
