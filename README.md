@@ -1,6 +1,4 @@
-# Helpful Engineers GitHub Community
-
-To avoid this happening again, we should make an announcement to all the project teams (if not the entire community) explaining how to use the community. Preferably with a link to this document, once it makes its way to GitHub. 
+# Helpful Engineers GitHub Organization
 
 ## Repository creation
 
@@ -81,5 +79,11 @@ All the new members should be just public (visible) members unless stated otherw
   
 ## Tags
 
-When creating a repository, generic tags like organization, project, hardware, software, and skill-* should be applied.
+Recommended tags for the created projects:
+
+* organization
+* project
+* hardware
+* software
+* skill-\* 
 
