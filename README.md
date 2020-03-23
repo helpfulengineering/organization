@@ -31,40 +31,17 @@
 
 ## Classifying repositories
 
-### Teams
+### Recommended tags
 
-* finance
-* legal
-* operations
-* projects
-  * project-experience-tagger
-* skills
-  * skill-communication
-  * skill-design-ux-ui
-  * skill-engineering-hardware
-  * skill-engineering-software
-  * skill-fluid-dynamics
-  * skill-graphic-designer
-  * skill-infosec
-  * skill-medical-personnel
-  * skill-outsystems-experts
-  * skill-project-planning
-  * skill-software-backend
-  * skill-software-datascience
-  * skill-software-devops
+* Generic project tags:
+ * Software: `software` `project` `covid-19`
+ * Hardware: `hardware` `project` `covid-19`
+ * Organization: `organization` `project` `covid-19`
+* Project name tag: a repository called `project-big-thing` should have a tag named `big-thing`.
+
+*Note: the `covid-19` tag visibilizes the repositories on the global GitHub scope and, hopefully, will bring more skilled collaborators to Helpful Engineering.*
   
-### Tags
-
-Recommended tags for the created projects:
-
-* organization
-* covid-19
-* project
-* hardware
-* software
-* skill-\* 
-
-## Licensing a repository
+## Licenses
 
 >Hi Everyone, _Please follow this guide if you do not already have an open source license on your work. If you have one, please leave the one you have in place._
 >
