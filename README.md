@@ -36,8 +36,25 @@ To avoid this happening again, we should make an announcement to all the project
 
 * Access privileges: each project will designate a few users, covering different time zones whenever possible, that will have triage-level access to the project repository.
 
-## Repository licensing
+## Repository licensing guide
 This has been solved by the legal team, and they suggest to leave already established licenses as they are and use these licenses for the new projects: https://helpfulengineering.slack.com/archives/CUR6CGMBL/p1584975246127600 
+
+Considering the huge uncertainties in how society will respond to the COVID-19 pandemic, we have decided to use permissive licenses where at all possible. This is founded on a desire to collaborate with established manufacturers and technology companies in order to create the best responses we can.
+
+We have kindly used Safecast's licensing structure for inspiration and content. We also believe that there is a chance large manufacturing or technology companies may wish to pick up our designs in this moment of crises. On this basis, we are recommending permissive licenses for you to use.
+
+### Hardware Projects
+Everything needed or used to design, make, test or prepare the Medical Hardware or other Contributions  to be made or distributed whether hardware designs, software, schematics or anything else is licensed under the CERN 2.0 Permissive licence (CERN-OHL-P).
+That includes both firmware and any software that normally comes with the  hardware or other item as well as software used to test it. We recommend placing a TXT file in the root of the repository, by the repository owner, with this license in it.
+
+### Software Projects
+Software that is not necessary for the functioning of the hardware but may be loaded onto it, or be used by another device to communicate with it is licensed under the permissive Blue Oak License 1.0.0 unless another open source license is used. We recommend placing a TXT file in the root of the repository, by the repository owner, with this license in it.
+Guides, instructional videos, and other materials
+Accompanying materials such as instruction manuals, videos and other copyrightable works that are useful for but not necessary to design, make, test or prepare the Medical Hardware for distribution should be published under a Creative Commons Attribution 4.0 License. 
+
+A reference to this license should be included at the bottom of vital documents, and we recommend the following;
+All copyrightable materials  other than software, and everything needed to design, make, test and prepare the hardware for distribution, such as instructional videos and manuals, are published under a Creative Commons Attribution 4.0 License.
+As a follow up, we will be asking all contributors to acknowledge that their designs are open source.
 
 ## Owner and member permission policy
 We currently rely on the serendipity principle to find new owners/members, but we should find a balance between federation and control, following the concerns that arose during the last standup.
