@@ -47,10 +47,8 @@ All the new members should be just public (visible) members unless stated otherw
 
 
 ## Repositories
-* organization: top-level issue tracking, wiki, and organization management, should have a refined version of this document as the README and should be pinned.
-
-* proposals: will be the new name of resources, and is going to be used to host the project proposals (both hardware and software) in its early stages; should be pinned.
-
+* organization: top-level issue tracking, wiki, and organization management.
+* proposals/[resources](https://github.com/helpfulengineering/resources), project proposals in its early stages.
 * project-\*: individual project repositories. 
 
 ## Teams
