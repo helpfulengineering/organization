@@ -2,7 +2,7 @@
 
 ## Submitting a repository
 
-Each project can host a repository under this organization, using the same name as its Slack channel (in [kebab-case](https://en.wiktionary.org/wiki/kebab_case)). **To start the creation/migration, please openin an issue or ping any of the [organization members](https://github.com/orgs/helpfulengineering/people) though Slack.**
+Each project can host a repository under this organization, using the same name as its Slack channel (in [kebab-case](https://en.wiktionary.org/wiki/kebab_case)). **To start the creation/migration, please open an issue or ping any of the [organization members](https://github.com/orgs/helpfulengineering/people) though Slack.**
 
 ## Choosing the right license
 
