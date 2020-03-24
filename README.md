@@ -1,45 +1,10 @@
 # Helpful Engineers GitHub Organization
 
-## Structure
-* organization: top-level issue tracking, wiki, and organization management.
-* proposals/[resources](https://github.com/helpfulengineering/resources), project proposals in its early stages.
-* project-\*: individual project repositories. 
+## Submitting a repository
 
-## Contributing
+Each project can host a repository under this organization, with the same name as its Slack channel (in [kebab-case](https://en.wiktionary.org/wiki/kebab_case)). **You can submit a repository, by opening an issue or pinging any of the [organization members](https://github.com/orgs/helpfulengineering/people) though Slack.**
 
-**If you want to add a repository, please open an issue or reach out us on the Slack [#skill-software-devops](https://helpfulengineering.slack.com/archives/CV54M16QH) channel.**
-
-## Kinds of repository
-
-### Organization specific
-* Creation policy: we should embrace the Unix philosophy of «do one thing and do it well» to segment the organization needs into concisely scoped repositories.
-
-* Naming: these repositories should be named in a consistent way (kebab-case) and, ideally, share a common prefix like (organization).
-
-* Access privileges: this has to be discussed, please refer to the «owner and member policy» section below.
-
-* Quirks: the most important repositories can be pinned so they are easy to find.
-
-* Teams: People can be added to teams they work on, and be added to skills. This way, specific skill sets can be tagged in issues and pull requests across projects and across the organization.
-
-### Project specific
-* Creation policy: there should be a maximum of one repository by project (a soft limit to keep things sane), and a minimum of zero, as we shouldn’t be creating repositories for projects that don’t need one or are using other tools and don’t want to migrate.
-
-* Naming: repository names should match the Slack channels they are affiliated with where possible (i.e. Slack channel #project-awesome-thing would yield project-awesome-thing). 
-
-* Access privileges: each project will designate a few users, covering different time zones whenever possible, that will have triage-level access to the project repository.
-
-## Classifying repositories
-
-### Recommended tags
-
-1. Contents: `hardware` `software` `documentation` `graphics` `data`
-2. Type: `project` `organization` `tool`
-3. Name: `big-thing` for a repository named *project-big-thing*.
-
-*Note: adding also the `covid-19` tag visibilizes the repositories on the global GitHub scope and, hopefully, will bring more skilled collaborators to Helpful Engineering.*
-  
-## Guide for licensing a new project
+## Choosing the right license
 
 >Hi Everyone, _Please follow this guide if you do not already have an open source license on your work. If you have one, please leave the one you have in place._
 >
