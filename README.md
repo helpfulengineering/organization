@@ -33,13 +33,11 @@
 
 ### Recommended tags
 
-* Generic project tags:
- * Software: `software` `project` `covid-19`
- * Hardware: `hardware` `project` `covid-19`
- * Organization: `organization` `project` `covid-19`
-* Project name tag: a repository called `project-big-thing` should have a tag named `big-thing`.
+1. Contents: `hardware` `software` `documentation` `graphics` `data`
+2. Type: `project` `organization` `tool`
+3. Name: `big-thing` for a repository named *project-big-thing*.
 
-*Note: the `covid-19` tag visibilizes the repositories on the global GitHub scope and, hopefully, will bring more skilled collaborators to Helpful Engineering.*
+*Note: adding also the `covid-19` tag visibilizes the repositories on the global GitHub scope and, hopefully, will bring more skilled collaborators to Helpful Engineering.*
   
 ## Guide for licensing a new project
 
